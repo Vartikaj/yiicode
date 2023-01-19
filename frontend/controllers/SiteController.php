@@ -155,7 +155,7 @@ class SiteController extends Controller
         return $this->render('personalinfo');
      }
 
-     public function actionDataingo(){
+     public function actionDatainfo(){
         return $this->render('datainfo');
      }
 
