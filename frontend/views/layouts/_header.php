@@ -25,6 +25,7 @@
         //USING THIS LINE OF CODE WE CAN ADD TO SHOW SOME MENU WHEN USER ARE LOGIN
         $menuItems = [['label' => 'About', 'url' => ['/site/about']],
             ['label' => 'Contact', 'url' => ['/site/contact']],
+            ['label' => 'Contact', 'url' => ['/site/datainfo']],
             /**
              * code is sed to create sub menus...
              */

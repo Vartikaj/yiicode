@@ -155,6 +155,10 @@ class SiteController extends Controller
         return $this->render('personalinfo');
      }
 
+     public function actionDataingo(){
+        return $this->render('datainfo');
+     }
+
     /**
      * Signs user up.
      *
