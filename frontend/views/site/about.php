@@ -4,7 +4,11 @@
 
 use yii\helpers\Html;
 
+<<<<<<< HEAD
 $this->title = 'About Master branch';
+=======
+$this->title = 'About title';
+>>>>>>> develop
 $this->params['breadcrumbs'][] = $this->title;
 ?>
 <div class="site-about">
